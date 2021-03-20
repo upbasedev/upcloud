@@ -1,0 +1,12 @@
+[package]
+name = "venom"
+version = "0.0.1"
+authors = ["Bevan Hunt <bevan@bevanhunt.com>"]
+edition = "2018"
+license = "MIT"
+keywords = ["database", "distributed", "p2p", "BFT", "real-time"]
+description = "Real-time P2P BFT KV"
+repository = "https://github.com/apibillme/broker"
+readme = "README.md"
+
+[dependencies]
