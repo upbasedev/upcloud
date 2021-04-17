@@ -1,9 +1,9 @@
-## Striped - Stripe API
+## UpCloud - UpCloud API
 
-[![crates.io](https://meritbadge.herokuapp.com/striped)](https://crates.io/crates/striped)
+[![crates.io](https://meritbadge.herokuapp.com/upcloud)](https://crates.io/crates/upcloud)
 
 ### Purpose
 
-The purpose of this crate is to be an API wrapper for the latest Stripe API. It will only provide payment and subscription API wrappers.
+The purpose of this crate is to be an API wrapper for the latest UpCloud API.
 
 Currently this is just a placeholder.

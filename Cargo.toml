@@ -1,13 +1,13 @@
 [package]
-name = "striped"
+name = "upcloud"
 version = "0.0.1"
 authors = ["Bevan Hunt <bevan@bevanhunt.com>"]
 edition = "2018"
 license = "MIT"
-keywords = ["stripe", "api"]
+keywords = ["upcloud", "api"]
 categories = ["web-programming", "api-bindings"]
-description = "Stripe API"
-repository = "https://github.com/apibillme/striped"
+description = "UpCloud API"
+repository = "https://github.com/apibillme/upcloud"
 readme = "README.md"
 
 [dependencies]
